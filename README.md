@@ -39,3 +39,11 @@ jupyter-notebook
 ## python 非同步語法
 
 ![python async io](python-async-io.png)
+
+## 程式碼設計概念
+
+![quality-code](quality-code.png)
+
+## Python 的函數與方法
+
+![method-with-argument](method-with-argument.png)
