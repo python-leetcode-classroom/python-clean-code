@@ -47,3 +47,21 @@ jupyter-notebook
 ## Python 的函數與方法
 
 ![method-with-argument](method-with-argument.png)
+
+## 設定 uv
+
+```shell
+uv init
+```
+
+## 安裝已經安裝過得 package
+
+```shell
+uv add -r requirements.txt
+```
+
+## 執行 jupyter notebook
+
+```shell
+uv run jupyter notebook
+```
